@@ -1,0 +1,30 @@
+.fruits {
+    border: 2px solid darkgoldenrod;
+    background-color: #00d0ff;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #0b4f09;
+}
+.cars{
+    background-color: blueviolet;
+    border: red 3px dot-dash;
+    margin: 15px;
+    padding: 15px;
+    text-align: end;
+    color: beige;
+}
+.computer{
+    background-color: deeppink;
+    border: 4px dotted black;
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+    color: mediumblue;
+}
+.laptop{
+    border: 5px solid black;
+}
+.dst{
+    border: 5px dotted black;
+}
